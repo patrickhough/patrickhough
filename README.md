@@ -19,9 +19,3 @@ Implementation accompanying our CiC 2024 paper:
 
 The implementation includes the distributed NTRU cryptosystem, zero-knowledge proof components, and verifiable shuffle used in the work.
 
-## Selected research
-
-- **Distributed Key Generation for NTRU** — CANS 2026
-- **Olingo: Threshold Lattice Signatures with DKG and Identifiable Abort** — ACM CCS 2026
-- **Collaborative, Segregated NIZK and More Efficient Lattice-Based Direct Anonymous Attestation**
-- **More Efficient Post-Quantum Electronic Voting from NTRU** — Communications in Cryptology, 2024
